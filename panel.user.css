@@ -5,6 +5,7 @@
 body {
     background-color: #ededed;
     font-size: 2em !important;
+    overflow-x: hidden;
 }
 
 .dash ul.left li {
@@ -37,4 +38,17 @@ body {
     margin-left: unset;
     float: unset;
     width: 100%;
+}
+
+#headerBg {
+    width: 100%;
+    background: unset;
+}
+
+#headerLogo {
+    background: unset;
+}
+
+.ddash {
+    height: unset;
 }
