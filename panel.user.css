@@ -1,0 +1,40 @@
+#header {
+    height: unset;
+}
+
+body {
+    background-color: #ededed;
+    font-size: 2em !important;
+}
+
+.dash ul.left li {
+    border-right: unset;
+    border-left: unset;
+    display: block;
+}
+
+.dash li {
+    float: unset;
+    list-style-type: none;
+    background-color: transparent !important;
+    border-left: unset;
+}
+
+.dash .selectblog {
+    float: unset;
+}
+
+.left {
+    float: unset;
+}
+
+#maincontent {
+    padding-right: unset;
+    background: unset;
+}
+
+.field, .field2, .field3, .field4, .field34, .field45, .field5 {
+    margin-left: unset;
+    float: unset;
+    width: 100%;
+}
